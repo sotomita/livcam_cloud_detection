@@ -1,0 +1,2 @@
+# livcam_cloud_detection
+動体検知手法を用いた雲の抽出
