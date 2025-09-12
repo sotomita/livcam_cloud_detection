@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# fig
+*.png
+*.jpg
+*.svg
+*.mp4
+
+# data
+*.csv
+*.nc
+*.npy
+*.npz
+*.pth
