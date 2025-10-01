@@ -1,6 +1,6 @@
 # livcam_cloud_detection
 ![sample](docs/image/result_0260.jpg)  
-気象・気候ダイナミクス研究室が撮影した,鈴鹿山脈を望む定点写真時系列から，
+気象・気候ダイナミクス研究室が撮影した鈴鹿山脈を望む定点写真時系列から，
 動体検知手法により雲を検出する．
 
 ## Dependencies
